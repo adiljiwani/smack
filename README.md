@@ -1,3 +1,3 @@
 # smack
 
-Clone for slack
+Real-time slack clone with messaging

@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "babel": "^6.23.0",
+    "cross-env": "^5.1.0",
+    "webpack": "^3.8.1"
+  }
+}

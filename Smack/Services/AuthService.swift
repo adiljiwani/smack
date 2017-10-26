@@ -86,7 +86,7 @@ class AuthService {
         let body: [String: Any] = [
             "name": name,
             "email": lowerCaseEmail,
-            "avatarColour": avatarColour,
+            "avatarColor": avatarColour,
             "avatarName": avatarName
         ]
         

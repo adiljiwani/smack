@@ -1,3 +1,3 @@
 # smack
 
-Real-time slack clone with messaging
+Real-time Slack clone app in iOS with messaging
